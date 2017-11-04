@@ -25,4 +25,4 @@ class QuadraticEquationTestCase(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()  # 12123123
+    unittest.main()  # 12
